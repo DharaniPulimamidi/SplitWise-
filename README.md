@@ -2,21 +2,6 @@
   <img src="https://github.com/user-attachments/assets/b44a514e-0a41-4f09-8786-fc529ed51cf9" alt="Splitwise clone Banner"/>
 </p>
 
----
-
-### 🤝 **Looking for Collaborators**
-
-I’m actively looking for collaborators to help add new features and enhance this project further!
-
-If you have ideas, expertise, or just the enthusiasm to contribute, feel free to:
-
-- Fork this repository and start contributing.
-- Reach out to me at [p1.sirsat1998@gmail.com](mailto:p1.sirsat1998@gmail.com) to discuss ideas or ask questions.
-
-✨ **Together, we can make this project even better!** ✨
-
----
-
 # **📄 SplitWise Clone Installation Guide**
 
 ### 📚 **Table of Contents**
@@ -47,11 +32,8 @@ If you have ideas, expertise, or just the enthusiasm to contribute, feel free to
 
 ### 📥 **1. Clone the Repository**
 
-Begin by cloning the SplitWise repository to your local machine:
+Begin by cloning the SplitWise repository to your local machine
 
-```bash
-git clone https://github.com/PawanSirsat/SplitWise.git
-```
 
 ### 📦 **2. Install Dependencies**
 
@@ -85,10 +67,6 @@ npx tailwindcss init
    - **Endpoint**
    - **Project ID**
    - **API Key**
-
-**I can provide these details to you. Just email me at [p1.sirsat1998@gmail.com](mailto:p1.sirsat1998@gmail.com), and I’ll share them with you!**
-
-This automated process ensures you avoid errors and get started instantly.
 
 ---
 
@@ -232,71 +210,6 @@ npm run dev
 
 ---
 
-### 📧 **Need Help?**
-
-If you encounter any issues with the database or need further assistance, feel free to email me at: p1.sirsat1998@gmail.com.
-
----
-
-### 🎥 **Appwrite Database Guide Video**
-
-https://github.com/user-attachments/assets/a09c0edf-5d71-4417-b03d-39db91105be6
-
----
-
-### 📑 **Documentation**
-
-#### 📂 **Google Drive**
-
-[Google Drive Complete Application DOC](https://drive.google.com/drive/folders/1nG6kY0vprGZ4sazl2pUZ6ee1TMno9BVI?usp=drive_link)
-
-#### 📄 **DOC PDF**
-
-[splitwise_documentation.pdf](https://github.com/user-attachments/files/16871474/splitwise_documentation.pdf)
-
----
-
-### 📊 **Database Design**
-
-![DataBase Design 1](https://github.com/user-attachments/assets/26d84039-10e9-4d9b-b04d-442017fbcb80)
-
----
-
-### 🔄 **Flowchart**
-
-![FlowChart](https://github.com/user-attachments/assets/6add1f3d-8f64-43e9-8c78-cedcd18032d4)
-
----
-
-### 💸 **Simplify Debt Flowchart**
-
-![Simplify Debt Flow](https://github.com/user-attachments/assets/9114c101-d851-48d5-a7ab-15f1b1b69f5c)
-
----
-
-# Login
-
-![Screenshot (463)](https://github.com/PawanSirsat/SplitWise/assets/48860105/6feaf149-4f67-474b-ac5b-a61f6eacbb63)
-
-# Signup
-
-![Screenshot (464)](https://github.com/PawanSirsat/SplitWise/assets/48860105/71c31b5f-beee-4a61-87ff-3398fdd6e98f)
-
-# Home
-
-![Screenshot (457)](https://github.com/PawanSirsat/SplitWise/assets/48860105/b09536d8-43a5-402d-8590-7b6c4edbfd59)
-
-# All Activity
-
-![Screenshot (458)](https://github.com/PawanSirsat/SplitWise/assets/48860105/63a37885-204b-4d6c-b1e1-6d2f09b3dcd8)
-
-# Group Activity
-
-![Screenshot (460)](https://github.com/PawanSirsat/SplitWise/assets/48860105/ae8b0631-8a98-49d1-96cb-9810a0673586)
-
-# Profile
-
-![Screenshot (459)](https://github.com/PawanSirsat/SplitWise/assets/48860105/8f6f3be7-7883-483b-9e23-05aaf8fcc29f)
 
 ### Built With
 
@@ -308,10 +221,6 @@ Tailwind CSS - A utility-first CSS framework.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
 
